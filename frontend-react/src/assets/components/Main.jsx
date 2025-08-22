@@ -11,6 +11,7 @@ const Main = () => {
                 <Button text='Login' class='btn-info' />
             </div>
         </div>
+
     </>
   )
 }
